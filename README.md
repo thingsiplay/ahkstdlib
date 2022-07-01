@@ -1,6 +1,8 @@
 # ahkstdlib
 Ahk Standard Library Collection (Legacy)
 
+* Download: https://github.com/thingsiplay/ahkstdlib/releases
+
 This is a collection of AutoHotkey Basic (the old version of Ahk) scripts and libraries from 2010. I am no longer Windows user and don't update this. It is uploaded for legacy reasons and because people still try to download.
 
 ## Old threads / posts in AutoHotkey forums
